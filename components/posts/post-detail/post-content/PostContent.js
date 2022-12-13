@@ -23,7 +23,7 @@ function PostContent(props) {
 
         return (
           <div className={classes.image}>
-            <Image src={imagePath} alt={image.alt} width={600} height={300} />
+            <Image src={imagePath} alt={title} width={600} height={300} />
           </div>
         );
       }
