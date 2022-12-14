@@ -8,7 +8,9 @@ app: blog
 
 deployed: https://vercel.com/alin-radu/next-js-basics-2/6Vd25q4qfr6xau2snUh2rse63x5E
 
-web: https://next-js-basics-2.vercel.app/
+web: https://next-js-basics-2-alin-radu.vercel.app
+web: https://next-js-basics-2.vercel.app
+web: https://next-js-basics-2-git-main-alin-radu.vercel.app
 
 github 
 …or create a new repository on the command line
